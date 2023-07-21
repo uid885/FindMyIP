@@ -1,10 +1,10 @@
 #!/bin/bash
-###########################################################
+############################################################
 # Author  :         Christo Deale                  
 # Date    :         2023-07-11             
 # FindMyIP:         Utility to scan connected devices & list
 #                   internal & external IP Addresses
-###########################################################
+############################################################
 # Fetch full hostname
 hostname=$(hostname -f)
 
